@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
@@ -312,5 +313,6 @@ Vimscript mappings:
 Do following:
 * Remove `~/.vim_runtime`
 * Remove any lines that refernce `.vim_runtime` in your `~/.vimrc`
+
 
 
